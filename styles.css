@@ -1,0 +1,5 @@
+   .gradient {
+    background: #fefcea; /* Для старых браузров */
+    background: linear-gradient(to bottom, black, orange);
+	padding: 100%
+   }
