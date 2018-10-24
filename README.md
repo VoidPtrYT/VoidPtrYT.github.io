@@ -1,2 +1,2 @@
-# VoidPtrYT.github.io
+# Welcome to main page of VPLauncher
 pages
